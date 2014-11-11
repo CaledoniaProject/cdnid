@@ -1,7 +1,7 @@
 cdnid 
 ========
 
-CDN 识别工具, 重写tanjiti的工具.
+CDN 识别工具, 重写tanjiti的工具. (原始链接 https://github.com/tanjiti/perl_tools/blob/master/whichCDNUser.pl)
 
 
 使用方法
